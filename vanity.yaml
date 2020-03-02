@@ -1,8 +1,8 @@
-host: rakyll.pizza
+host: go.thethings.network
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /lorawan-stack:
+    repo: https://github.com/TheThingsNetwork/lorawan-stack
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /lorawan-stack-legacy:
+    repo: https://github.com/TheThingsNetwork/lorawan-stack-legacy
